@@ -1,0 +1,15 @@
+.headershoppingcart{
+    background-color: blue!important;
+    height: auto;
+    width: auto;
+
+}
+.tennav{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cartItemDetail{
+    font-size: 15px;
+}
